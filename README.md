@@ -1,4 +1,4 @@
-# mad_lab_8
+# e_commerce_app
 
 A new Flutter project.
 
