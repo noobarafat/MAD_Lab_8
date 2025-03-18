@@ -5,6 +5,7 @@ void main() {
   runApp(const FreebeesEcom());
 }
 
+
 class FreebeesEcom extends StatelessWidget {
   const FreebeesEcom({super.key});
 
